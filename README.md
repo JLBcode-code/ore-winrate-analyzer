@@ -11,7 +11,7 @@
 
 The ORE Supply Game Win Rate Analyzer is a sophisticated tool designed to analyze the Solana-based ORE Supply Game, providing data-driven insights and probability calculations to help players make informed betting decisions. This analyzer uses advanced algorithms including Bayesian inference, time-decay models, and historical pattern analysis to predict winning probabilities for each of the 25 game blocks.
 
-![ORE Supply Game Analysis Interface](./images/ore-analysis-interface.png)
+![ORE Supply Game Analysis Interface](https://raw.githubusercontent.com/JLBcode-code/ore-winrate-analyzer/main/images/ore-analysis-interface.png)
 
 ## Features
 
@@ -104,7 +104,7 @@ node cleanup-v2.js
 
 ### Analysis Interface Elements
 
-![Game Analysis Screenshot](./images/ore-analysis-interface.png)
+![Game Analysis Screenshot](https://raw.githubusercontent.com/JLBcode-code/ore-winrate-analyzer/main/images/ore-analysis-interface.png)
 
 The analysis interface displays:
 

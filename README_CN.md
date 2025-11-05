@@ -10,7 +10,7 @@
 
 ORE Supply 游戏胜率分析器是一个复杂的分析工具，专门用于分析基于 Solana 区块链的 ORE Supply 游戏。该分析器提供数据驱动的洞察和概率计算，帮助玩家做出明智的投注决策。本分析器使用先进的算法，包括贝叶斯推理、时间衰减模型和历史模式分析，来预测 25 个游戏格子中每个格子的获胜概率。
 
-![ORE Supply 游戏分析界面](./images/ore-analysis-interface.png)
+![ORE Supply 游戏分析界面](https://raw.githubusercontent.com/JLBcode-code/ore-winrate-analyzer/main/images/ore-analysis-interface.png)
 
 ## 功能特性
 
@@ -103,7 +103,7 @@ node cleanup-v2.js
 
 ### 分析界面元素
 
-![游戏分析截图](./images/ore-analysis-interface.png)
+![游戏分析截图](https://raw.githubusercontent.com/JLBcode-code/ore-winrate-analyzer/main/images/ore-analysis-interface.png)
 
 分析界面显示以下内容：
 
