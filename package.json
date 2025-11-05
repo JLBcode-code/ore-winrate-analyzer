@@ -1,0 +1,35 @@
+{
+  "name": "ore-winrate-analyzer",
+  "version": "2.0.0",
+  "description": "Advanced probability analyzer for ORE Supply Game with Bayesian inference and time-decay models",
+  "main": "probability-analyzer.js",
+  "scripts": {
+    "analyze": "node probability-analyzer.js",
+    "smart-picks": "node smart-picks.js",
+    "advanced": "node advanced-analyzer.js",
+    "read-round": "node read-round.js",
+    "cleanup": "node cleanup-v2.js",
+    "ev-picks": "node ev-picks.js"
+  },
+  "keywords": [
+    "ore",
+    "solana",
+    "probability",
+    "analyzer",
+    "bayesian",
+    "gambling",
+    "prediction"
+  ],
+  "author": "Block_devp",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR_USERNAME/ore-winrate-analyzer.git"
+  },
+  "dependencies": {
+    "@solana/web3.js": "^1.98.4"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
