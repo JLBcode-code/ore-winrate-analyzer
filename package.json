@@ -20,11 +20,11 @@
     "gambling",
     "prediction"
   ],
-  "author": "Block_devp",
+  "author": "JLBcode-code",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/YOUR_USERNAME/ore-winrate-analyzer.git"
+    "url": "https://github.com/JLBcode-code/ore-winrate-analyzer.git"
   },
   "dependencies": {
     "@solana/web3.js": "^1.98.4"
