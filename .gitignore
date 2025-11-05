@@ -26,3 +26,4 @@ venv/
 ENV/
 *.log
 .DS_Store
+examples/*.png
