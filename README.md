@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ORE Supply Game Win Rate Analyzer
 
 📞 **Contact the Author:**
